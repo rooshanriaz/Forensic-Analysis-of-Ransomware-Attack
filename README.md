@@ -22,7 +22,10 @@ This project conducts a **forensic analysis** of the WannaCry ransomware attack,
 - **Suspicious Processes**: Identified self-modifying sections and Trojan signatures.  
 - **Vendor Flags**: 24/72 vendors flagged the sample as malicious (e.g., `Trojan.GenericKD.76211654`).  
 
-## 🚀 Usage  
-Clone the repository:  
-   ```bash  
-   git clone [https://github.com/rooshanriaz/Forensic-Analysis-of-Ransomware-Attack]  
+## 👥 Contributors  
+This project was developed by:  
+
+- **[Shameer Awais](https://github.com/ShameerAwais)**  
+- **[Rooshan Riaz](https://github.com/rooshanriaz)**  
+- **[Yasir Khan](https://github.com/Yasirkhan26)**  
+- **[Naqi Raza](https://github.com/naqirraza99)**  
